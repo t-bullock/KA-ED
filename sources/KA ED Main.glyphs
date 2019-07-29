@@ -1,5 +1,8 @@
 {
-.appVersion = "1056";
+.appVersion = "895";
+DisplayStrings = (
+q/ring
+);
 copyright = "SIL OPEN FONT LICENSE Version 1.1";
 date = "2017-02-17 20:36:56 +0000";
 designer = "Trevor Bullock";
@@ -2730,6 +2733,24 @@ width = 573;
 }
 );
 unicode = 0060;
+},
+{
+glyphname = ring;
+lastChange = "2019-07-05 21:18:58 +0000";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = l;
+transform = "{1, 0, 0, 1, -210, 0}";
+}
+);
+layerId = "53D4CA5D-399D-44AB-A9D2-3F3317BE3E64";
+width = 0;
+}
+);
+unicode = 02DA;
 },
 {
 export = 0;
