@@ -1,7 +1,7 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-q/ring
+"z\"2:02N/Omega N"
 );
 copyright = "SIL OPEN FONT LICENSE Version 1.1";
 date = "2017-02-17 20:36:56 +0000";
@@ -1258,7 +1258,7 @@ unicode = 0031;
 },
 {
 glyphname = two;
-lastChange = "2019-03-12 02:42:16 +0000";
+lastChange = "2019-08-13 02:38:09 +0000";
 layers = (
 {
 components = (
@@ -1268,7 +1268,7 @@ name = one;
 },
 {
 name = asciitilde;
-transform = "{1, 0, 0, 1.1, 720, -210}";
+transform = "{1, 0, 0, 1.1, 700, -210}";
 }
 );
 layerId = "53D4CA5D-399D-44AB-A9D2-3F3317BE3E64";
@@ -1479,13 +1479,13 @@ unicode = 005C;
 },
 {
 glyphname = colon;
-lastChange = "2019-03-12 02:42:16 +0000";
+lastChange = "2019-08-13 02:26:37 +0000";
 layers = (
 {
 components = (
 {
 name = semicolon;
-transform = "{1, 0, 0, 1, 0, -70}";
+transform = "{1, 0, 0, 1, 0, -110}";
 }
 );
 layerId = "53D4CA5D-399D-44AB-A9D2-3F3317BE3E64";
@@ -1662,13 +1662,13 @@ unicode = 003F;
 },
 {
 glyphname = quotedbl;
-lastChange = "2019-03-12 02:42:16 +0000";
+lastChange = "2019-08-13 02:26:43 +0000";
 layers = (
 {
 components = (
 {
 name = quotesingle;
-transform = "{1, 0, 0, 1, 60, -70}";
+transform = "{1, 0, 0, 1, 60, -110}";
 }
 );
 layerId = "53D4CA5D-399D-44AB-A9D2-3F3317BE3E64";
