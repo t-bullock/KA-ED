@@ -1,7 +1,7 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-"z\"2:02N/Omega N"
+"#@"
 );
 copyright = "SIL OPEN FONT LICENSE Version 1.1";
 date = "2017-02-17 20:36:56 +0000";
@@ -1576,7 +1576,7 @@ unicode = 0021;
 },
 {
 glyphname = numbersign;
-lastChange = "2019-03-12 02:42:16 +0000";
+lastChange = "2019-08-23 23:44:33 +0000";
 layers = (
 {
 components = (
@@ -1590,7 +1590,7 @@ transform = "{0.9, 0, 0, 0.9, 220, -70}";
 }
 );
 layerId = "53D4CA5D-399D-44AB-A9D2-3F3317BE3E64";
-width = 1094;
+width = 1045;
 }
 );
 unicode = 0023;
