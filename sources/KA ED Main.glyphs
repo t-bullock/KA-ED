@@ -1,8 +1,8 @@
 {
 .appVersion = "1287";
 DisplayStrings = (
-"CDFHZz/Omega 1345689-/_part.kentimata/_part.hyporroi Zz/Omega -`",
-"/trademark"
+"",
+""
 );
 copyright = "SIL OPEN FONT LICENSE Version 1.1";
 date = "2017-02-17 20:36:56 +0000";
@@ -552,7 +552,7 @@ unicode = 0059;
 },
 {
 glyphname = Z;
-lastChange = "2020-05-07 00:50:06 +0000";
+lastChange = "2020-05-11 17:48:44 +0000";
 layers = (
 {
 components = (
@@ -563,7 +563,7 @@ transform = "{1, 0, 0, 1, -9, 0}";
 },
 {
 name = _part.kentimata_short;
-transform = "{1, 0, 0, 1, 630, -20}";
+transform = "{1, 0, 0, 1.1, 320, 415}";
 }
 );
 layerId = "53D4CA5D-399D-44AB-A9D2-3F3317BE3E64";
@@ -1232,7 +1232,7 @@ unicode = 0079;
 },
 {
 glyphname = z;
-lastChange = "2020-05-07 00:49:47 +0000";
+lastChange = "2020-05-11 17:48:55 +0000";
 layers = (
 {
 components = (
@@ -1243,7 +1243,7 @@ transform = "{1, 0, 0, 1, -9, 0}";
 },
 {
 name = _part.kentimata_short;
-transform = "{1, 0, 0, 1.1, 320, 415}";
+transform = "{1, 0, 0, 1, 630, -20}";
 }
 );
 layerId = "53D4CA5D-399D-44AB-A9D2-3F3317BE3E64";
